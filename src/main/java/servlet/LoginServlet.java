@@ -2,7 +2,6 @@ package servlet;
 
 
 import entity.Account;
-import sun.java2d.pipe.hw.AccelDeviceEventListener;
 import util.DBUtil;
 
 import javax.servlet.ServletException;
